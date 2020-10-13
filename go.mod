@@ -1,4 +1,4 @@
-module github.com/dsouzajude/logspout-fluentd
+module github.com/l-herrmann/logspout-fluentd
 
 go 1.12
 
